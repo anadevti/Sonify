@@ -1,6 +1,7 @@
 # Sonify
 
 Sonify é um projeto criado para a avaliação de bandas. Ele foi desenvolvido em C# e utiliza o .NET 8.0.
+Sua versão utilizando POO está sendo desenvolvida! Você pode conferir [Neste repo](https://github.com/anadevti/Sonify_POO).
 
 ![image](https://github.com/user-attachments/assets/ae432333-1c4c-44d1-9a87-e405312ccbe7)
 
